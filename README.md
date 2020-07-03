@@ -24,6 +24,7 @@ Basic Usage
 ===========
 The series ID for the U.S. city average, All items survey under the category CPI for All Urban Consumers (CPI-U) is CUUR0000SA0. Create a blssurvey object with
 ```
+#include "bls_survey.h"
 blssurvey name("CUUR0000SA0");
 ```
 You can get some basic information about this survey with 
