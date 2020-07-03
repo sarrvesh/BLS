@@ -1,8 +1,8 @@
 #include<iostream>
-#include "blm_survey.h"
+#include "bls_survey.h"
 
 int main(void) {
-    blmsurvey name("CUUR0000SA0");
+    blssurvey name("CUUR0000SA0");
     name.print_info();
     /*
     try {

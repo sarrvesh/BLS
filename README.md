@@ -1,5 +1,5 @@
-# BLM
-A C++ interface to get data from the US Bureau of Labor Statistics (BLM).
+# BLS
+A C++ interface to get data from the US Bureau of Labor Statistics (BLS).
 
 Dependencies
 ============
@@ -10,8 +10,8 @@ Dependencies
 Installation
 ============
 ```sh
-$ git clone https://github.com/sarrvesh/BLM.git
-$ cd BLM
+$ git clone https://github.com/sarrvesh/BLS.git
+$ cd BLS
 $ mkdir build
 $ cmake ../ 
 (or)

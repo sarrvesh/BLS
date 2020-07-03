@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(BLM)
+project(BLS)
 
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/CMakeModules)
 
@@ -15,10 +15,10 @@ find_package(jsoncpp REQUIRED)
 include_directories(${jsoncpp_INCLUDE_DIRS})
 
 set(SOURCES 
-    ${PROJECT_SOURCE_DIR}/blm_query.cpp
-    ${PROJECT_SOURCE_DIR}/blm_survey.cpp)
-add_executable(blm_query ${SOURCES})
-target_link_libraries(blm_query 
+    ${PROJECT_SOURCE_DIR}/bls_query.cpp
+    ${PROJECT_SOURCE_DIR}/bls_survey.cpp)
+add_executable(bls_query ${SOURCES})
+target_link_libraries(bls_query 
     ${CMAKE_CPP_FLAGS} 
     ${CURL_LIBRARIES} 
     ${jsoncpp_LIBRARIES})

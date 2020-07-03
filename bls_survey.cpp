@@ -4,9 +4,9 @@
 #include<string>
 #include<curl/curl.h>
 #include <json/json.h>
-#include"blm_survey.h"
+#include"bls_survey.h"
 
-void blmsurvey::print_info(void) {
+void blssurvey::print_info(void) {
     auto series = get_series_map();
     auto itr = series.find(survey_id);
     // Iterator itr points to the (key, value) pair
@@ -29,7 +29,7 @@ std::size_t callback(
     return totalBytes;
 }
 
-void blmsurvey::query_survey(void) {
+void blssurvey::query_survey(void) {
     // Form the final URL
     const std::string url {"https://api.bls.gov/publicAPI/v2/timeseries/data/" + survey_id};
     
@@ -77,7 +77,7 @@ void blmsurvey::query_survey(void) {
     }
 }
 
-void blmsurvey::print_survey_data(void) {
+void blssurvey::print_survey_data(void) {
     std::cout << "I'll print the time series data" << std::endl;
 }
 

@@ -4,12 +4,12 @@
 
 std::map<std::string, std::list<std::string> > get_series_map(void);
 
-class blmsurvey {
+class blssurvey {
     std::string survey_id;
     
     public:
         // Constructors
-        blmsurvey(std::string s): survey_id{s} {}
+        blssurvey(std::string s): survey_id{s} {}
         
         // Print basic information about a survey ID
         void print_info(void);
