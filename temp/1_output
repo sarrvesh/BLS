@@ -1,0 +1,17 @@
+HTTP/1.1 200 200
+Date: Thu, 02 Jul 2020 20:55:22 GMT
+Set-Cookie: JSESSIONID=7B7A6A1E8E879DC54931F2EDD02F569C; Path=/publicAPI; HttpOnly;Version=1;Secure
+Content-Type: application/json
+Content-Length: 454
+Vary: Origin, Accept-Encoding
+APC-Route-id: _01_05v
+Access-Control-Allow-Headers: origin,x-requested-with,access-control-request-headers,content-type,access-control-request-method,accept
+Access-Control-Allow-Origin: *
+Route-Id: _t8_08v; 
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Pool-Info: AP01
+
+{"status":"REQUEST_SUCCEEDED","responseTime":157,"message":[],"Results":{
+"series":
+[{"seriesID":"CFU0000008000","data":[{"year":"2002","period":"A01","periodName":"Annual","latest":"true","value":"5534","footnotes":[{}]},{"year":"2001","period":"A01","periodName":"Annual","value":"5915","footnotes":[{"code":"N","text":"Excludes Sept. 11th terrorist attacks"}]},{"year":"2000","period":"A01","periodName":"Annual","value":"5920","footnotes":[{}]}]}]
+}}

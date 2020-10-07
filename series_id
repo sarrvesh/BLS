@@ -1,0 +1,1316 @@
+Prices - Producer
+-----------------
+PPI Industry Data
+ Total manufacturing industries - PCUOMFG--OMFG--
+ Electric power distribution - PCU221122221122
+ Fruit and vegetable canning - PCU311421311421
+ Petroleum lubricating oil & grease mfg - PCU324191324191
+ Industrial gas manufacturing - PCU325120325120
+ Chemical mfg - PCU325---325---
+ Carbon black - PCU3251803251806
+ All other basic organic chemical mfg, primary products - PCU325199325199P
+ Plastics material and resins manufacturing - PCU325211325211
+ Synthetic rubber mfg, primary products - PCU325212325212P
+ Pharmaceutical preparation mfg - PCU325412325412
+ Paint & coating mfg - PCU325510325510
+ Iron & steel mills - PCU331110331110
+ Aluminum sheet, plate & foil mfg - PCU331315331315
+ Sheet metal work mfg - PCU332322332322
+ Hardware mfg - PCU332510332510
+ Other fabricated wire product mfg - PCU332618332618
+ Industrial valve mfg - PCU332911332911
+ Ball and roller bearing mfg - PCU332991332991
+ Construction machinery mfg - PCU333120333120
+ Oil & gas field machinery & equipment mfg - PCU333132333132
+ Turbine & turbine generator set unit mfg - PCU333611333611
+ Capacitor, resistor, coil, transformer, and other mfg - PCU33441K33441K
+ Electric power and specialty transformer mfg - PCU335311335311
+ Switchgear & switchboard apparatus mfg - PCU335313335313
+ Current-carrying wiring device mfg - PCU335931335931
+ Automobile, light truck and utility vehicle mfg - PCU336110336110
+ Aircraft engine & engine parts mfg - PCU336412336412
+ Other aircraft parts & equipment mfg - PCU336413336413
+ Wholesale distribution of drugs and druggists' sundries - PCU4240004240002
+ Wholesale distribution of grocery and related products - PCU4240004240004
+ New car dealers - PCU441110441110
+ Scheduled passenger air transportation - PCU481111481111
+ Line-haul railroads - PCU482111482111
+ Supermarkets and other grocery (exc convenience) stores - PCU445110445110
+ Truck transportation - PCU484---484---
+ General freight trucking, long-distance, truckload - PCU4841214841212
+ Other heavy machinery rental & leasing - PCU532412532412
+ Offices of physicians (exc mental health) - PCU621111621111
+ General medical and surgical hospitals - PCU622110622110
+
+PPI Commodity Data
+ Final demand - WPUFD4
+ Final demand (seasonally adjusted) - WPSFD4
+ Final demand goods - WPUFD41
+ Final demand foods - WPUFD411
+ Final demand energy - WPUFD412
+ Final demand less foods and energy - WPUFD49104
+ Final demand less foods, energy, & trade services - WPUFD49116
+ Final demand services - WPUFD42
+ Final demand transportation and warehousing - WPUFD422
+ Final demand trade services - WPUFD423
+ Final demand services less trade, trans., wrhsg - WPUFD421
+ Final demand construction - WPUFD43
+ Processed goods for intermediate demand - WPUID61
+ Unprocessed goods for intermediate demand - WPUID62
+ Services for intermediate demand - WPUID63
+ Stage 4 intermediate demand - WPUID54
+ Stage 3 intermediate demand - WPUID53
+ Stage 2 intermediate demand - WPUID52
+ Stage 1 intermediate demand - WPUID51
+ Motor vehicles - WPU1411
+ Pharmaceutical preparations - WPU0638
+ Gasoline - WPU0571
+ Meats - WPU0221
+ Industrial chemicals - WPU061
+ Lumber - WPU081
+ Steel mill products - WPU1017
+ Diesel fuel - WPU057303
+ Prepared animal feeds - WPU029
+ Crude petroleum - WPU0561
+ Grains - WPU012
+ Carbon steel scrap - WPU101211
+ Outpatient healthcare - WPU5111
+ Inpatient healthcare services - WPU5121
+ Food and alcohol retailing - WPU5811
+ Apparel and jewelry retailing - WPU5831
+ Airline passenger services - WPU3022
+ Securities brokerage, investment, and related - WPU4011
+ Business loans (partial) - WPU3911
+ Legal services - WPU4511
+ Truck transportation of freight - WPU3012
+ Machinery and equipment wholesaling - WPU571
+ Finished goods - WPUFD49207
+ Finished goods (seasonally adjusted) - WPSFD49207
+ Finished core - WPUFD4131
+ Finished core (seasonally adjusted) - WPSFD4131
+ All commodities - WPU00000000
+ Industrial commodities - WPU03THRU15
+
+Prices - International
+----------------------
+Import/Export Price Indexes
+ Imports - All Commodities - EIUIR
+ Imports - Fuels and Lubricants - EIUIR10
+ All Imports Excluding Fuels - EIUIREXFUELS
+ Imports - Foods, Feeds, and Beverages - EIUIR0
+ Imports - Industrial Supplies and Materials - EIUIR1
+ Imports - Capital Goods - EIUIR2
+ Imports - Automotive Vehicles - EIUIR3
+ Imports - Consumer Goods - EIUIR4
+ Exports - All Commodities - EIUIQ
+ Exports - Agricultural Commodities - EIUIQAG
+ Exports - Nonagricultural Commodities - EIUIQEXAG
+ Exports - Foods, Feeds, and Beverages - EIUIQ0
+ Exports - Industrial Supplies and Materials - EIUIQ1
+ Exports - Capital Goods - EIUIQ2
+ Exports - Automotive Vehicles - EIUIQ3
+ Exports - Consumer Goods - EIUIQ4
+ Terms of Trade - Canada - All Industries - EIUCTCANTOT
+ Terms of Trade - European Union - All Industries - EIUCTEECTOT
+ Terms of Trade - Mexico - All Industries - EIUCTMEXTOT
+ Terms of Trade - China - All Industries - EIUCTCHNTOT
+ Terms of Trade - Japan - All Industries - EIUCTJPNTOT
+ Locality of Origin - Canada - All Industries - EIUCOCANTOT
+ Locality of Origin - European Union - All Industries - EIUCOEECTOT
+ Locality of Origin - Mexico - All Industries - EIUCOMEXTOT
+ Locality of Origin - China - All Industries - EIUCOCHNTOT
+ Locality of Origin - Japan - All Industries - EIUCOJPNTOT
+ Locality of Destination - Canada - All Industries - EIUCDCANTOT
+ Locality of Destination - European Union - All Industries - EIUCDEECTOT
+ Locality of Destination - Mexico - All Industries - EIUCDMEXTOT
+ Locality of Destination - China - All Industries - EIUCDCHNTOT
+ Locality of Destination - Japan - All Industries - EIUCDJPNTOT
+ Import Air Passenger Fares - EIUIV142
+ Export Air Passenger Fares - EIUIH142
+ Import Air Freight - EIUIV131
+ Export Air Freight - EIUIH231
+ 
+Employment
+==========
+Monthly
+-------
+Employment, Hours, and Earnings from the Current Employment Statistics survey (National)
+(Select from list below)
+ Total Nonfarm Employment, Seasonally Adjusted - CES0000000001
+ Manufacturing Employment, Seasonally Adjusted - CES3000000001
+ Total Private Employment, Seasonally Adjusted - CES0500000001
+ Government Employment, Seasonally Adjusted - CES9000000001
+ Total Private Average Hourly Earnings of All Employees, Seasonally Adjusted - CES0500000003
+ Total Nonfarm Employment, Not Seasonally Adjusted - CEU0000000001
+ Construction Employment, Seasonally Adjusted - CES2000000001
+ Oil and Gas Extraction Employment, Seasonally Adjusted - CES1021100001
+ Professional and Business Services Employment, Seasonally Adjusted - CES6000000001
+ Leisure and Hospitality Employment, Seasonally Adjusted - CES7000000001
+ Other Services Employment, Seasonally Adjusted - CES8000000001
+ Mining and Logging Employment, Seasonally Adjusted - CES1000000001
+ Financial Activities Employment, Seasonally Adjusted - CES5500000001
+ Education and Health Services Employment, Seasonally Adjusted - CES6500000001
+ Information Employment, Seasonally Adjusted - CES5000000001
+ Total Private Average Weekly Hours of All Employees, Seasonally Adjusted - CES0500000002
+ Primary Metals Average Weekly Hours of All Employees, Seasonally Adjusted - CES3133100002
+ Textile Mills Average Weekly Hours of All Employees, Seasonally Adjusted - CES3231300002
+ Retail Trade Employment, Seasonally Adjusted - CES4200000001
+ Fabricated Metal Products Average Weekly Hours of All Employees, Seasonally Adjusted - CES3133200002
+ Paper and Paper Products Average Weekly Hours of All Employees, Seasonally Adjusted - CES3232200002
+ Education and Health Services Average Weekly Hours of All Employees, Not Seasonally Adjusted - CEU6500000002
+ Printing and Related Support Activities Average Weekly Hours of All Employees, Seasonally Adjusted - CES3232300002
+ Total Private Employment, Not Seasonally Adjusted - CEU0500000001
+ Total Private Average Hourly Earnings of Production and Nonsupervisory Employees, Seasonally Adjusted - CES0500000008
+ 
+Employment, Hours, and Earnings - State and Metro Area
+==> To be done later
+
+Labor Force Statistics from the Current Population Survey
+(Select from list below)
+ Civilian Labor Force Level - LNS11000000
+ Civilian Labor Force Participation Rate - LNS11300000
+ Employment Level - LNS12000000
+ Employment-Population Ratio - LNS12300000
+ Employed, Usually Work Full Time - LNS12500000
+ Employed, Usually Work Part Time - LNS12600000
+ Unemployment Level - LNS13000000
+ Unemployment Rate - LNS14000000
+ Unemployment Rate - 16-19 Years - LNS14000012
+ Unemployment Rate - 20 Years & Over Men - LNS14000025
+ Unemployment Rate - 20 Years & Over Women - LNS14000026
+ Unemployment Rate - White - LNS14000003
+ Unemployment Rate - Black or African American - LNS14000006
+ Unemployment Rate - Asian - LNS14032183
+ Unemployment Rate - Hispanic or Latino - LNS14000009
+ Unemployment Rate - 25 Years & Over, Less than a High School Diploma - LNS14027659
+ Unemployment Rate - 25 Years & Over, High School Graduates No College - LNS14027660
+ Unemployment Rate - 25 Years & Over, Some College or Associate Degree - LNS14027689
+ Unemployment Rate - 25 Years & Over, Bachelor's Degree and Higher - LNS14027662
+ Number Unemployed For Less Than 5 weeks - LNS13008396
+ Number Unemployed For 5-14 Weeks - LNS13008756
+ Number Unemployed For 15 Weeks & Over - LNS13008516
+ Number Unemployed For 27 Weeks & Over - LNS13008636
+ Average Weeks Unemployed - LNS13008275
+ Median Weeks Unemployed - LNS13008276
+ Unemployment Level Job Losers - LNS13023621
+ Unemployment Level Job Losers On Layoff - LNS13023653
+ Unemployment Level Job Losers Not on Layoff - LNS13025699
+ Unemployment Level Job Leavers - LNS13023705
+ Unemployment Level Reentrants To Labor Force - LNS13023557
+ Unemployment Level New Entrants - LNS13023569
+ Persons At Work Part Time for Economic Reasons - LNS12032194
+ Not in Labor Force - LNS15000000
+ Marginally Attached to Labor Force - LNS15026642
+ Discouraged Workers - LNS15026645
+ Alternative measure of labor underutilization U-6 - LNS13327709
+ Multiple Jobholders Level - LNS12026619
+ Multiple Jobholders as a Percent of Total Employed - LNS12026620
+ Employment Level, Nonag. Industries, With a Job not at Work, Bad Weather - LNU02036012
+ Employment Level, Nonag. Industries, At Work 1-34 Hrs, Usually Work Full time, Bad Weather - LNU02033224
+ 
+Job Openings and Labor Turnover Survey
+(Select from list below)
+ Hires rate, Total nonfarm - JTS00000000HIR
+ Job openings rate, Total nonfarm - JTS00000000JOR
+ Total separations rate, Total nonfarm - JTS00000000TSR
+ Hires rate, Total private - JTS10000000HIR
+ Job openings rate, Total private - JTS10000000JOR
+ Total separations rate, Total private - JTS10000000TSR
+ Hires rate, Construction - JTS23000000HIR
+ Job openings rate, Construction - JTS23000000JOR
+ Total separations rate, Construction - JTS23000000TSR
+ Hires rate, Manufacturing - JTS30000000HIR
+ Job openings rate, Manufacturing - JTS30000000JOR
+ Total separations rate, Manufacturing - JTS30000000TSR
+ Hires rate, Trade, transportation, and utilities - JTS40000000HIR
+ Job openings rate, Trade, transportation, and utilities - JTS40000000JOR
+ Total separations rate, Trade, transportation, and utilities - JTS40000000TSR
+ Hires rate, Professional and business services - JTS54009900HIR
+ Job openings rate, Professional and business services - JTS54009900JOR
+ Total separations rate, Professional and business services - JTS54009900TSR
+ Hires rate, Education and health services - JTS60000000HIR
+ Job openings rate, Education and health services - JTS60000000JOR
+ Total separations rate, Education and health services - JTS60000000TSR
+ Hires rate, Leisure and hospitality - JTS70000000HIR
+ Job openings rate, Leisure and hospitality - JTS70000000JOR
+ Total separations rate, Leisure and hospitality - JTS70000000TSR
+ Hires rate, Government - JTS90000000HIR
+ Job openings rate, Government - JTS90000000JOR
+ Total separations rate, Government - JTS90000000TSR
+ Hires rate, Total nonfarm - JTU00000000HIR
+ Job openings rate, Total nonfarm - JTU00000000JOR
+ Total separations rate, Total nonfarm - JTU00000000TSR
+ Hires rate, Total private - JTU10000000HIR
+ Job openings rate, Total private - JTU10000000JOR
+ Total separations rate, Total private - JTU10000000TSR
+ Hires rate, Mining and logging - JTU11009900HIR
+ Job openings rate, Mining and logging - JTU11009900JOR
+ Total separations rate, Mining and logging - JTU11009900TSR
+ Hires rate, Construction - JTU23000000HIR
+ Job openings rate, Construction - JTU23000000JOR
+ Total separations rate, Construction - JTU23000000TSR
+ Hires rate, Manufacturing - JTU30000000HIR
+ Job openings rate, Manufacturing - JTU30000000JOR
+ Total separations rate, Manufacturing - JTU30000000TSR
+ Hires rate, Trade, transportation, and utilities - JTU40000000HIR
+ Job openings rate, Trade, transportation, and utilities - JTU40000000JOR
+ Total separations rate, Trade, transportation, and utilities - JTU40000000TSR
+ Hires rate, Information - JTU51000000HIR
+ Job openings rate, Information - JTU51000000JOR
+ Total separations rate, Information - JTU51000000TSR
+ Hires rate, Financial activities - JTU51009900HIR
+ Job openings rate, Financial activities - JTU51009900JOR
+ Total separations rate, Financial activities - JTU51009900TSR
+ Hires rate, Professional and business services - JTU54009900HIR
+ Job openings rate, Professional and business services - JTU54009900JOR
+ Total separations rate, Professional and business services - JTU54009900TSR
+ Hires rate, Education and health services - JTU60000000HIR
+ Job openings rate, Education and health services - JTU60000000JOR
+ Total separations rate, Education and health services - JTU60000000TSR
+ Hires rate, Leisure and hospitality - JTU70000000HIR
+ Job openings rate, Leisure and hospitality - JTU70000000JOR
+ Total separations rate, Leisure and hospitality - JTU70000000TSR
+ Hires rate, Other services - JTU81000000HIR
+ Job openings rate, Other services - JTU81000000JOR
+ Total separations rate, Other services - JTU81000000TSR
+ Hires rate, Government - JTU90000000HIR
+ Job openings rate, Government - JTU90000000JOR
+ Total separations rate, Government - JTU90000000TSR
+
+Quaterly
+--------
+State and County Employment and Wages
+==> To be done later (per state)
+
+Business Employment Dynamics
+(Select from list below)
+ Total Private Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110001LQ5
+ Total Private Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110004LQ5
+ Total Private Establishments Gaining Jobs (Seasonally Adjusted) - BDS0000000000000000120001LQ5
+ Total Private Establishments Losing Jobs (Seasonally Adjusted) - BDS0000000000000000120004LQ5
+ Manufacturing Gross Job Gains (Seasonally Adjusted) - BDS0000000000100030110001LQ5
+ Manufacturing Gross Job Losses (Seasonally Adjusted) - BDS0000000000100030110004LQ5
+ Manufacturing Establishments Gaining Jobs (Seasonally Adjusted) - BDS0000000000100030120001LQ5
+ Manufacturing Establishments Losing Jobs (Seasonally Adjusted) - BDS0000000000100030120004LQ5
+ Information Gross Job Gains (Seasonally Adjusted) - BDS0000000000200050110001LQ5
+ Information Gross Job Losses (Seasonally Adjusted) - BDS0000000000200050110004LQ5
+ Information Establishments Gaining Jobs (Seasonally Adjusted) - BDS0000000000200050120001LQ5
+ Information Establishments Losing Jobs (Seasonally Adjusted) - BDS0000000000200050120004LQ5
+ Goods-Producing Gross Job Gains (Seasonally Adjusted) - BDS0000000000100000110001LQ5
+ Goods-Producing Gross Job Losses (Seasonally Adjusted) - BDS0000000000100000110004LQ5
+ Goods-Producing Establishments Gaining Jobs (Seasonally Adjusted) - BDS0000000000100000120001LQ5
+ Goods-Producing Establishments Losing Jobs (Seasonally Adjusted) - BDS0000000000100000120004LQ5
+ Service-Providing Gross Job Gains (Seasonally Adjusted) - BDS0000000000200000110001LQ5
+ Service-Providing Gross Job Losses (Seasonally Adjusted) - BDS0000000000200000110004LQ5
+ Service-Providing Establishments Gaining Jobs (Seasonally Adjusted) - BDS0000000000200000120001LQ5
+ Service-Providing Establishments Losing Jobs (Seasonally Adjusted) - BDS0000000000200000120004LQ5
+ Firm Size Class 1 to 4 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110101LQ5
+ Firm Size Class 1 to 4 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110104LQ5
+ Firm Size Class 5 to 9 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110201LQ5
+ Firm Size Class 5 to 9 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110204LQ5
+ Firm Size Class 10 to 19 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110301LQ5
+ Firm Size Class 10 to 19 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110304LQ5
+ Firm Size Class 20 to 49 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110401LQ5
+ Firm Size Class 20 to 49 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110404LQ5
+ Firm Size Class 50 to 99 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110501LQ5
+ Firm Size Class 50 to 99 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110504LQ5
+ Firm Size Class 100 to 249 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110601LQ5
+ Firm Size Class 100 to 249 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110604LQ5
+ Firm Size Class 250 to 499 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110701LQ5
+ Firm Size Class 250 to 499 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110704LQ5
+ Firm Size Class 500 to 999 employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110801LQ5
+ Firm Size Class 500 to 999 employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110804LQ5
+ Firm Size Class 1,000 or more employees Gross Job Gains (Seasonally Adjusted) - BDS0000000000000000110901LQ5
+ Firm Size Class 1,000 or more employees Gross Job Losses (Seasonally Adjusted) - BDS0000000000000000110904LQ5
+
+Annual & Other
+--------------
+American Time Use
+(Select from list below)
+ Avg hrs per day - Leisure and sports (includes travel) - TUU10101AA01013585
+ Avg hrs per day - Leisure and sports (includes travel), Nonholiday weekdays - TUU10101AA01013590
+ Avg hrs per day - Leisure and sports (includes travel), Weekend days and holidays - TUU10101AA01013588
+ Avg hrs per day - Watching TV - TUU10101AA01014236
+ Avg hrs per day - Watching TV, Nonholiday weekdays - TUU10101AA01014241
+ Avg hrs per day - Watching TV, Weekend days and holidays - TUU10101AA01014239
+ Avg hrs per day - Socializing and communicating - TUU10101AA01013951
+ Avg hrs per day - Socializing and communicating, Nonholiday weekdays - TUU10101AA01013956
+ Avg hrs per day - Socializing and communicating, Weekend days and holidays - TUU10101AA01013954
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs - TUU10101AA01042892
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs, Men - TUU10101AA01042907
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs, Women - TUU10101AA01042922
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs - TUU10101AA01042901
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs, Men - TUU10101AA01042916
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs, Women - TUU10101AA01042931
+ Avg hrs per day - Household activities (includes travel) - TUU10101AA01009381
+ Avg hrs per day - Household activities (includes travel), Men - TUU10101AA01009497
+ Avg hrs per day - Household activities (includes travel), Women - TUU10101AA01009613
+ Avg hrs per day - Housework - TUU10101AA01000865
+ Avg hrs per day - Housework, Men - TUU10101AA01000944
+ Avg hrs per day - Housework, Women - TUU10101AA01001023
+ Avg hrs per day - Food preparation and cleanup - TUU10101AA01001102
+ Avg hrs per day - Food preparation and cleanup, Men - TUU10101AA01001181
+ Avg hrs per day - Food preparation and cleanup, Women - TUU10101AA01001260
+ Percent participating on an avg day - Working, Employed - TUU30105AA01002864
+ Percent participating on an avg day - Working, Employed, Men - TUU30105AA01002999
+ Percent participating on an avg day - Working, Employed, Women - TUU30105AA01003084
+ Percent participating on an avg day - Working, Nonholiday weekdays, Employed - TUU30105AA01002866
+ Percent participating on an avg day - Working, Weekend days and holidays, Employed - TUU30105AA01002865
+ Percent participating on an avg day - Working, Employed full time - TUU30105AA01002902
+ Percent participating on an avg day - Working at home, Employed, on days worked - TUU30105AA01043855
+ Avg hrs per day for participants - Working, Employed - TUU20101AA01002864
+ Avg hrs per day for participants - Working, Employed, Men - TUU20101AA01002999
+ Avg hrs per day for participants - Working, Employed, Women - TUU20101AA01003084
+ Avg hrs per day for participants - Working, Nonholiday weekdays, Employed - TUU20101AA01002866
+ Avg hrs per day for participants - Working, Weekend days and holidays, Employed - TUU20101AA01002865
+ Avg hrs per day for participants - Working, Employed full time - TUU20101AA01002902
+ Avg hrs per day for participants - Working at home, Employed - TUU20101AA01002870
+
+Union affiliation data from the Current Population Survey
+(Select from list below)
+ Employed wag & sal workers, Members of unions - LUU0203161800
+ Percent of employed, Members of unions - LUU0204899600
+ Employed wag & sal workers, Represented by unions - LUU0203161900
+ Percent of employed, Represented by unions - LUU0204899700
+ Median weekly earnings, Employed full time, Wag & sal wrkrs, Members of unions - LUU0253169100
+ Median weekly earnings, Employed full time, Wag & sal wrkrs, Non-union - LUU0253169300
+ Pct of emp, Priv wag & sal wrkrs, Members of unions - LUU0204906600
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Mining - LUU0204910400
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Construction - LUU0204910500
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Manufacturing - LUU0204910600
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Wholesale and retail trade - LUU0204910900
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Transportation and utilities - LUU0204911200
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Information - LUU0204911500
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Financial activities - LUU0204912300
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Prof and business services - LUU0204912800
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Educ and health services - LUU0204913100
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Leisure and hospitality - LUU0204913400
+ Pct of emp, Priv wag & sal wrkrs, Members of unions, Other services - LUU0204913900
+ Pct of emp, Government wag & sal wrkrs, Members of unions - LUU0204922700
+
+Marital and family labor force statistics from the Current Population Survey
+(Select from list below)
+ Labor force participation rate - Persons with own children under 18 - FMUP1378851
+ Labor force participation rate - Men with own children under 18 - FMUP1378852
+ Labor force participation rate - Women with own children under 18 - FMUP1378853
+ Labor force participation rate - Persons with own children 6 to 17, none younger - FMUP1378860
+ Labor force participation rate - Men with own children 6 to 17, none younger - FMUP1378861
+ Labor force participation rate - Women with own children 6 to 17, none younger - FMUP1378862
+ Labor force participation rate - Persons with own children under 6 - FMUP1378863
+ Labor force participation rate - Men with own children under 6 - FMUP1378864
+ Labor force participation rate - Women with own children under 6 - FMUP1378865
+ Labor force participation rate - Women with own children under 3 - FMUP1378869
+ Labor force participation rate - Women with own children under 1 - FMUP1378872
+ Labor force participation rate - Persons with no own children under 18 - FMUP1378866
+ Labor force participation rate - Men with no own children under 18 - FMUP1378867
+ Labor force participation rate - Women with no own children under 18 - FMUP1378868
+ Employment-population ratio - Persons with own children under 18 - FMUP2378851
+ Employment-population ratio - Men with own children under 18 - FMUP2378852
+ Employment-population ratio - Women with own children under 18 - FMUP2378853
+ Employment-population ratio - Persons with own children 6 to 17, none younger - FMUP2378860
+ Employment-population ratio - Men with own children 6 to 17, none younger - FMUP2378861
+ Employment-population ratio - Women with own children 6 to 17, none younger - FMUP2378862
+ Employment-population ratio - Persons with own children under 6 - FMUP2378863
+ Employment-population ratio - Men with own children under 6 - FMUP2378864
+ Employment-population ratio - Women with own children under 6 - FMUP2378865
+ Employment-population ratio - Women with own children under 3 - FMUP2378869
+ Employment-population ratio - Women with own children under 1 - FMUP2378872
+ Employment-population ratio - Persons with no own children under 18 - FMUP2378866
+ Employment-population ratio - Men with no own children under 18 - FMUP2378867
+ Employment-population ratio - Women with no own children under 18 - FMUP2378868
+ Unemployment rate - Persons with own children under 18 - FMUP4078851
+ Unemployment rate - Men with own children under 18 - FMUP4078852
+ Unemployment rate - Women with own children under 18 - FMUP4078853
+ Unemployment rate - Persons with own children 6 to 17, none younger - FMUP4078860
+ Unemployment rate - Men with own children 6 to 17, none younger - FMUP4078861
+ Unemployment rate - Women with own children 6 to 17, none younger - FMUP4078862
+ Unemployment rate - Persons with own children under 6 - FMUP4078863
+ Unemployment rate - Men with own children under 6 - FMUP4078864
+ Unemployment rate - Women with own children under 6 - FMUP4078865
+ Unemployment rate - Women with own children under 3 - FMUP4078869
+ Unemployment rate - Women with own children under 1 - FMUP4078872
+ Unemployment rate - Persons with no own children under 18 - FMUP4078866
+ Unemployment rate - Men with no own children under 18 - FMUP4078867
+ Unemployment rate - Women with no own children under 18 - FMUP4078868
+
+Unemployment
+============
+Rates & Levels
+--------------
+Labor Force Statistics from the Current Population Survey
+(Select from list below)
+ Civilian Labor Force Level - LNS11000000
+ Civilian Labor Force Participation Rate - LNS11300000
+ Employment Level - LNS12000000
+ Employment-Population Ratio - LNS12300000
+ Employed, Usually Work Full Time - LNS12500000
+ Employed, Usually Work Part Time - LNS12600000
+ Unemployment Level - LNS13000000
+ Unemployment Rate - LNS14000000
+ Unemployment Rate - 16-19 Years - LNS14000012
+ Unemployment Rate - 20 Years & Over Men - LNS14000025
+ Unemployment Rate - 20 Years & Over Women - LNS14000026
+ Unemployment Rate - White - LNS14000003
+ Unemployment Rate - Black or African American - LNS14000006
+ Unemployment Rate - Asian - LNS14032183
+ Unemployment Rate - Hispanic or Latino - LNS14000009
+ Unemployment Rate - 25 Years & Over, Less than a High School Diploma - LNS14027659
+ Unemployment Rate - 25 Years & Over, High School Graduates No College - LNS14027660
+ Unemployment Rate - 25 Years & Over, Some College or Associate Degree - LNS14027689
+ Unemployment Rate - 25 Years & Over, Bachelor's Degree and Higher - LNS14027662
+ Number Unemployed For Less Than 5 weeks - LNS13008396
+ Number Unemployed For 5-14 Weeks - LNS13008756
+ Number Unemployed For 15 Weeks & Over - LNS13008516
+ Number Unemployed For 27 Weeks & Over - LNS13008636
+ Average Weeks Unemployed - LNS13008275
+ Median Weeks Unemployed - LNS13008276
+ Unemployment Level Job Losers - LNS13023621
+ Unemployment Level Job Losers On Layoff - LNS13023653
+ Unemployment Level Job Losers Not on Layoff - LNS13025699
+ Unemployment Level Job Leavers - LNS13023705
+ Unemployment Level Reentrants To Labor Force - LNS13023557
+ Unemployment Level New Entrants - LNS13023569
+ Persons At Work Part Time for Economic Reasons - LNS12032194
+ Not in Labor Force - LNS15000000
+ Marginally Attached to Labor Force - LNS15026642
+ Discouraged Workers - LNS15026645
+ Alternative measure of labor underutilization U-6 - LNS13327709
+ Multiple Jobholders Level - LNS12026619
+ Multiple Jobholders as a Percent of Total Employed - LNS12026620
+ Employment Level, Nonag. Industries, With a Job not at Work, Bad Weather - LNU02036012
+ Employment Level, Nonag. Industries, At Work 1-34 Hrs, Usually Work Full time, Bad Weather - LNU02033224
+
+Local Area Unemployment Statistics (LAUS)
+==> For later (per state value)
+
+Pay & Benefits
+==============
+Pay
+---
+Modeled Wage Estimates
+(Select from list below)
+ Average hourly wage for union electricians in Los Angeles-Long Beach-Anaheim, CA - WMU00310801020000004721112300
+ Average hourly wage for nonunion electricians in Los Angeles-Long Beach-Anaheim, CA - WMU00310801020000004721112400
+ Average hourly wage for union production occupations workers in Ohio - WMU39000001020000005100002300
+ Average hourly wage for nonunion production occupations workers in Detroit-Warren-Dearborn, MI - WMU00198201020000005100002400
+ Average hourly wage for time-based pay sales and related occupations workers in Denver-Aurora-Lakewood, CO - WMU00197401020000004100002700
+ Average hourly wage for time-based pay sales and related occupations workers in Atlanta-Sandy Springs-Roswell, GA - WMU00120601020000004100002700
+ Average hourly wage for incentive-based pay sales and related occupations workers in Missouri - WMU29000001020000004100002800
+ Average hourly wage for incentive-based pay sales and related occupations workers in Dallas-Fort Worth-Arlington, TX - WMU00191001020000004100002800
+ Average hourly wage for full-time business and financial operations occupations workers in Bloomington, IN - WMU00140201020000001300002500
+ Average hourly wage for part-time business and financial operations occupations workers in Bloomington, IN - WMU00140201020000001300002600
+ Average hourly wage for full-time shipping, receiving, and traffic clerks in Deltona-Daytona Beach-Ormond Beach, FL - WMU00196601020000004350712500
+ Average hourly wage for part-time shipping, receiving, and traffic clerks in Tampa-St. Petersburg-Clearwater, FL - WMU00453001020000004350712600
+ Average hourly wage for level 6 financial analysts in the U.S. - WMU00000001020000001320510006
+ Average hourly wage for level 9 financial analysts in the U.S. - WMU00000001020000001320510009
+ Average hourly wage for level 12 financial analysts in the U.S. - WMU00000001020000001320510012
+ Average hourly wage for level 6 computer and mathematical occupations workers in Austin-Round Rock, TX - WMU00124201020000001500000006
+ Average hourly wage for level 8 computer and mathematical occupations workers in Austin-Round Rock, TX - WMU00124201020000001500000008
+ Average hourly wage for level 11 computer and mathematical occupations workers in Austin-Round Rock, TX - WMU00124201020000001500000011
+
+Pay & Cost of Benefits
+----------------------
+Employment Cost Index (NAICS)
+(Select from list below)
+ Civilian Workers, Compensation, 12-Month Percent Change, Not Seasonally Adjusted - CIU1010000000000A
+ Civilian Workers, Wages And Salaries, 12-Month Percent Change, Not Seasonally Adjusted - CIU1020000000000A
+ Civilian Workers, Benefits, 12-Month Percent Change, Not Seasonally Adjusted - CIU1030000000000A
+ Private Industry, Compensation, 12-Month Percent Change, Not Seasonally Adjusted - CIU2010000000000A
+ Private Industry, Wages And Salaries, 12-Month Percent Change, Not Seasonally Adjusted - CIU2020000000000A
+ Private Industry, Benefits, 12-Month Percent Change, Not Seasonally Adjusted - CIU2030000000000A
+ State And Local Government, Compensation, 12-Month Percent Change, Not Seasonally Adjusted - CIU3010000000000A
+ State And Local Government, Wages And Salaries, 12-Month Percent Change, Not Seasonally Adjusted - CIU3020000000000A
+ State And Local Government, Benefits, 12-Month Percent Change, Not Seasonally Adjusted - CIU3030000000000A
+ Civilian Workers, Compensation, 3-Month Percent Change, Seasonally Adjusted - CIS1010000000000Q
+ Civilian Workers, Wages And Salaries, 3-Month Percent Change, Seasonally Adjusted - CIS1020000000000Q
+ Civilian Workers, Benefits, 3-Month Percent Change, Seasonally Adjusted - CIS1030000000000Q
+ Private Industry, Compensation, 3-Month Percent Change, Seasonally Adjusted - CIS2010000000000Q
+ Private Industry, Wages And Salaries, 3-Month Percent Change, Seasonally Adjusted - CIS2020000000000Q
+ Private Industry, Benefits, 3-Month Percent Change, Seasonally Adjusted - CIS2030000000000Q
+ State and Local Government, Compensation, 3-Month Percent Change, Seasonally Adjusted - CIS3010000000000Q
+ State And Local Government, Wages And Salaries, 3-Month Percent Change, Seasonally Adjusted - CIS3020000000000Q
+
+Employer Cost for Employee Compensation
+(Select from list below)
+ Civilian, All workers, Total compensation - CMU1010000000000D
+ Civilian, All workers, Wages and salaries - CMU1020000000000D
+ Civilian, All workers, Total benefits - CMU1030000000000D
+ Civilian, All workers, Health insurance - CMU1150000000000D
+ Private industry, All workers, Total compensation - CMU2010000000000D
+ Private industry, All workers, Wages and salaries - CMU2020000000000D
+ Private industry, All workers, Total benefits - CMU2030000000000D
+ Private industry, All workers, Health insurance - CMU2150000000000D
+ State and local government, All workers, Total compensation - CMU3010000000000D
+ State and local government, All workers, Wages and salaries - CMU3020000000000D
+ State and local government, All workers, Total benefits - CMU3030000000000D
+ State and local government, All workers, Health insurance - CMU3150000000000D
+
+Benefit Incidence & Provisions
+------------------------------
+National Compensation Survey - Benefits
+(Select from list below)
+ Civilian workers: Access to health care - NBU11500000000000028171
+ Civilian workers: Employer share of single coverage medical care premiums - NBU11500000000000031208
+ Civilian workers: Average flat monthly employer premium for single coverage medical care benefits - NBU11500000000000030182
+ Civilian workers: Access to paid vacation benefits - NBU10500000000000033030
+ Civilian workers: Access to paid sick leave benefits - NBU10700000000000033087
+ Civilian workers: Access to paid holiday benefits - NBU10600000000000033073
+ Civilian workers: Access to defined benefit retirement benefits - NBU11900000000000028290
+ Civilian workers: Access to defined contribution retirement benefits - NBU12000000000000028312
+ Civilian workers: Access to wellness program benefits - NBU16300000000000033353
+ Private industry workers: Access to health care - NBU21500000000000028171
+ Private industry workers: Employer share of single coverage medical care premiums - NBU21500000000000031208
+ Private industry workers: Average flat monthly employer premium for single coverage medical care benefits - NBU21500000000000030182
+ Private industry workers: Access to paid vacation benefits - NBU20500000000000033030
+ Private industry workers: Access to paid sick leave benefits - NBU20700000000000033087
+ Private industry workers: Access to paid holiday benefits - NBU20600000000000033073
+ Private industry workers: Access to defined benefit retirement benefits - NBU21900000000000028290
+ Private industry workers: Access to defined contribution retirement benefits - NBU22000000000000028312
+ Private industry workers: Access to wellness program benefits - NBU26300000000000033353
+ State and local government workers: Access to health care - NBU31500000000000028171
+ State and local government workers: Employer share of single coverage medical care premiums - NBU31500000000000031208
+ State and local government workers: Average flat monthly employer premium for single coverage medical care benefits - NBU31500000000000030182
+ State and local government workers: Access to paid vacation benefits - NBU30500000000000033030
+ State and local government workers: Access to paid sick leave benefits - NBU30700000000000033087
+ State and local government workers: Access to paid holiday benefits - NBU30600000000000033073
+ State and local government workers: Access to defined benefit retirement benefits - NBU31900000000000028290
+ State and local government workers: Access to defined contribution retirement benefits - NBU32000000000000028312
+ State and local government workers: Access to wellness program benefits - NBU36300000000000033353
+
+Work Stoppages
+--------------
+Work Stoppage Data
+(Select from list below)
+ Number of work stoppages, beginning in the period - WSU100
+ Number of work stoppages, in effect in the period - WSU200
+ Number of workers involved, beginning in the period - WSU010
+ Number of workers involved, in effect in the period - WSU020
+ Days of idleness, in effect in the period - WSU001
+ Days of idleness, in effect as a percent of total estimated working time - WSU002
+
+Pay (from an Employment Survey)
+-------------------------------
+Weekly and hourly earnings data from the Current Population Survey
+(Select from list below)
+ Median wkly earnings, Emp FT, Wage & sal wrkrs - LEU0252881500
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Men - LEU0252881800
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Women - LEU0252882700
+ Constant (1982-84) Median wkly earnings, Emp FT, Wage & sal wrkrs - LEU0252881600
+ Constant (1982-84) Median wkly earnings, Emp FT, Wage & sal wrkrs, Men - LEU0252881900
+ Constant (1982-84) Median wkly earnings, Emp FT, Wage & sal wrkrs, Women - LEU0252882800
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, White - LEU0252883600
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, White, Men - LEU0252883900
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, White, Women - LEU0252884200
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Black or African Amer - LEU0252884500
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Black or African Amer, Men - LEU0252884800
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Black or African Amer, Women - LEU0252885100
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Asian - LEU0254468400
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Asian, Men - LEU0254468500
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Asian, Women - LEU0254468600
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Hispanic or Latino - LEU0252885400
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Hispanic or Latino, Men - LEU0252885700
+ Median wkly earnings, Emp FT, Wage & sal wrkrs, Hispanic or Latino, Women - LEU0252886000
+ Median wkly earns, Emp FT, Wag & sal wrkrs, LT high sch dipl, 25 yrs & ovr - LEU0252916700
+ Median wkly earns, Emp FT, Wag & sal wrkrs, High sch grads no coll, 25 yrs & ovr - LEU0252917300
+ Median wkly earns, Emp FT, Wag & sal wrkrs, Some coll or assc degr, 25 yrs & ovr - LEU0254929400
+ Median wkly earns, Emp FT, Wag & sal wrkrs, Bach degr or higher, 25 yrs & ovr - LEU0252918500
+ Median wkly earns, Emp FT, Wag & sal wrkrs, Bach degr only, 25 yrs & ovr - LEU0252919100
+ Median wkly earns, Emp FT, Wag & sal wrkrs, Adv degree, 25 yrs & ovr - LEU0252919700
+
+Employment, Hours, and Earnings from the Current Employment Statistics survey (National)
+(Select from list below)
+ Total Nonfarm Employment, Seasonally Adjusted - CES0000000001
+ Manufacturing Employment, Seasonally Adjusted - CES3000000001
+ Total Private Employment, Seasonally Adjusted - CES0500000001
+ Government Employment, Seasonally Adjusted - CES9000000001
+ Total Private Average Hourly Earnings of All Employees, Seasonally Adjusted - CES0500000003
+ Total Nonfarm Employment, Not Seasonally Adjusted - CEU0000000001
+ Construction Employment, Seasonally Adjusted - CES2000000001
+ Oil and Gas Extraction Employment, Seasonally Adjusted - CES1021100001
+ Professional and Business Services Employment, Seasonally Adjusted - CES6000000001
+ Leisure and Hospitality Employment, Seasonally Adjusted - CES7000000001
+ Other Services Employment, Seasonally Adjusted - CES8000000001
+ Mining and Logging Employment, Seasonally Adjusted - CES1000000001
+ Financial Activities Employment, Seasonally Adjusted - CES5500000001
+ Education and Health Services Employment, Seasonally Adjusted - CES6500000001
+ Information Employment, Seasonally Adjusted - CES5000000001
+ Total Private Average Weekly Hours of All Employees, Seasonally Adjusted - CES0500000002
+ Primary Metals Average Weekly Hours of All Employees, Seasonally Adjusted - CES3133100002
+ Textile Mills Average Weekly Hours of All Employees, Seasonally Adjusted - CES3231300002
+ Retail Trade Employment, Seasonally Adjusted - CES4200000001
+ Fabricated Metal Products Average Weekly Hours of All Employees, Seasonally Adjusted - CES3133200002
+ Paper and Paper Products Average Weekly Hours of All Employees, Seasonally Adjusted - CES3232200002
+ Education and Health Services Average Weekly Hours of All Employees, Not Seasonally Adjusted - CEU6500000002
+ Printing and Related Support Activities Average Weekly Hours of All Employees, Seasonally Adjusted - CES3232300002
+ Total Private Employment, Not Seasonally Adjusted - CEU0500000001
+ Total Private Average Hourly Earnings of Production and Nonsupervisory Employees, Seasonally Adjusted - CES0500000008
+
+State and County Wages
+==> Later (individual states)
+
+Spending & Time Use
+===================
+Time Use
+--------
+American Time Use
+(Select from list below)
+ Avg hrs per day - Leisure and sports (includes travel) - TUU10101AA01013585
+ Avg hrs per day - Leisure and sports (includes travel), Nonholiday weekdays - TUU10101AA01013590
+ Avg hrs per day - Leisure and sports (includes travel), Weekend days and holidays - TUU10101AA01013588
+ Avg hrs per day - Watching TV - TUU10101AA01014236
+ Avg hrs per day - Watching TV, Nonholiday weekdays - TUU10101AA01014241
+ Avg hrs per day - Watching TV, Weekend days and holidays - TUU10101AA01014239
+ Avg hrs per day - Socializing and communicating - TUU10101AA01013951
+ Avg hrs per day - Socializing and communicating, Nonholiday weekdays - TUU10101AA01013956
+ Avg hrs per day - Socializing and communicating, Weekend days and holidays - TUU10101AA01013954
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs - TUU10101AA01042892
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs, Men - TUU10101AA01042907
+ Avg hrs per day - Caring for and helping household children, Parents with youngest household child 6-12 yrs, Women - TUU10101AA01042922
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs - TUU10101AA01042901
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs, Men - TUU10101AA01042916
+ Avg hrs per day - Caring for and helping household children, Parents of household children under 6 yrs, Women - TUU10101AA01042931
+ Avg hrs per day - Household activities (includes travel) - TUU10101AA01009381
+ Avg hrs per day - Household activities (includes travel), Men - TUU10101AA01009497
+ Avg hrs per day - Household activities (includes travel), Women - TUU10101AA01009613
+ Avg hrs per day - Housework - TUU10101AA01000865
+ Avg hrs per day - Housework, Men - TUU10101AA01000944
+ Avg hrs per day - Housework, Women - TUU10101AA01001023
+ Avg hrs per day - Food preparation and cleanup - TUU10101AA01001102
+ Avg hrs per day - Food preparation and cleanup, Men - TUU10101AA01001181
+ Avg hrs per day - Food preparation and cleanup, Women - TUU10101AA01001260
+ Percent participating on an avg day - Working, Employed - TUU30105AA01002864
+ Percent participating on an avg day - Working, Employed, Men - TUU30105AA01002999
+ Percent participating on an avg day - Working, Employed, Women - TUU30105AA01003084
+ Percent participating on an avg day - Working, Nonholiday weekdays, Employed - TUU30105AA01002866
+ Percent participating on an avg day - Working, Weekend days and holidays, Employed - TUU30105AA01002865
+ Percent participating on an avg day - Working, Employed full time - TUU30105AA01002902
+ Percent participating on an avg day - Working at home, Employed, on days worked - TUU30105AA01043855
+ Avg hrs per day for participants - Working, Employed - TUU20101AA01002864
+ Avg hrs per day for participants - Working, Employed, Men - TUU20101AA01002999
+ Avg hrs per day for participants - Working, Employed, Women - TUU20101AA01003084
+ Avg hrs per day for participants - Working, Nonholiday weekdays, Employed - TUU20101AA01002866
+ Avg hrs per day for participants - Working, Weekend days and holidays, Employed - TUU20101AA01002865
+ Avg hrs per day for participants - Working, Employed full time - TUU20101AA01002902
+ Avg hrs per day for participants - Working at home, Employed - TUU20101AA01002870
+
+Productivity
+============
+Productivity
+------------
+Major Sector Productivity and Costs
+(Select from list below)
+ Business - Labor Productivity (Output per Hour), percent change from previous quarter - PRS84006092
+ Business - Unit Labor Costs, percent change from previous quarter - PRS84006112
+ Business - Real Hourly Compensation, percent change from previous quarter - PRS84006152
+ Nonfarm Business - Labor Productivity (Output per Hour), percent change from previous quarter - PRS85006092
+ Nonfarm Business - Unit Labor Costs, percent change from previous quarter - PRS85006112
+ Nonfarm Business - Real Hourly Compensation, percent change from previous quarter - PRS85006152
+ Manufacturing - Labor Productivity (Output per Hour), percent change from previous quarter - PRS30006092
+ Manufacturing - Unit Labor Costs, percent change from previous quarter - PRS30006112
+ Manufacturing - Real Hourly Compensation, percent change from previous quarter - PRS30006152
+
+Major Sector Multifactor Productivity
+(Select from list below)
+ Private Business - Multifactor Productivity, annual index - MPU4900012
+ Private Business - Output per Unit of Capital Services, annual index - MPU4900072
+ Private Business - Output per Hour, annual index - MPU4900062
+ Private Nonfarm Business - Multifactor Productivity, annual index - MPU4910012
+ Private Nonfarm Business - Output per Unit of Capital Services, annual index - MPU4910072
+ Private Nonfarm Business - Output per Hour, annual index - MPU4910062
+ Manufacturing - Multifactor Productivity, annual index - MPU9900012
+ Manufacturing - Output per Unit of Capital Services, annual index - MPU9900072
+ Manufacturing - Output per Hour, annual index - MPU9900062
+
+Industry Productivity and Costs
+(Select from list below)
+ Mining - Labor productivity, output per hour (index, 2007=100) - IPUBN21____L000000000
+ Power generation and supply - Labor productivity, output per hour (index, 2007=100) - IPUCN2211__L000000000
+ Computer and electronic products - Labor productivity, output per hour (index, 2007=100) - IPUEN334___L000000000
+ Motor vehicles - Labor productivity, output per hour (index, 2007=100) - IPUEN3361__L000000000
+ Wholesale trade - Labor productivity, output per hour (index, 2007=100) - IPUGN42____L000000000
+ Retail trade - Labor productivity, output per hour (index, 2007=100) - IPUHN44_45_L000000000
+ Grocery stores - Labor productivity, output per hour (index, 2007=100) - IPUHN4451__L000000000
+ General merchandise stores - Labor productivity, output per hour (index, 2007=100) - IPUHN452___L000000000
+ Air transportation - Labor productivity, output per hour (index, 2007=100) - IPUIN481___L000000000
+ Publishing - Labor productivity, output per hour (index, 2007=100) - IPUJN511___L000000000
+ Wired telecommunications carriers - Labor productivity, output per hour (index, 2007=100) - IPUJN517311L000000000
+ Commercial banking - Labor productivity, output per hour (index, 2007=100) - IPUKN52211_L000000000
+ Food services and drinking places - Labor productivity, output per hour (index, 2007=100) - IPUTN722___L000000000
+ Automotive repair and maintenance - Labor productivity, output per hour (index, 2007=100) - IPUUN8111__L000000000
+
+Workplace Injuries
+==================
+Workplace Injuries & Illnesses
+------------------------------
+Census of Fatal Occupational Injuries (2011 forward)
+(Select from list below)
+ All industries- Fatalities, Total - FWU00X00000080N00
+ Private industry- Fatalities, Total - FWU50X00000081N00
+ Private industry- Fatalities, Goods producing - FWU00XGP1AAA81N00
+ Private industry- Fatalities, Agriculture, forestry, fishing and hunting - FWU00XGP2AFH81N00
+ Private industry- Fatalities, Mining - FWU00XGP2MIN81N00
+ Private industry- Fatalities, Construction - FWU00XGP1CON81N00
+ Private industry- Fatalities, Residential building construction - FWU00X2361XX81N00
+ Private industry- Fatalities, Nonresidential building construction - FWU00X2362XX81N00
+ Private industry- Fatalities, Highway, street, and bridge construction - FWU00X2373XX81N00
+ Private industry- Fatalities, Manufacturing - FWU00XGP1MFG81N00
+ Private industry- Fatalities, Service providing - FWU00XSP1AAA81N00
+ Private industry- Fatalities, Retail trade - FWU00XSP2RET81N00
+ Private industry- Fatalities, Administrative and waste services - FWU00XSP2ADW81N00
+ Private industry- Fatalities, Health care and social assistance - FWU00XSP2HSA81N00
+ Private industry- Fatalities, Truck transportation - FWU00X484XXX81N00
+ Private industry- Fatalities, Food services and drinking places - FWU00X722XXX81N00
+ Government industry- Fatalities, All government total - FWU00X00000089N00
+ Government industry- Fatalities, Federal government total - FWU00X00000086N00
+ Government industry- Fatalities, State government total - FWU00X00000087N00
+ Government industry- Fatalities, Local government total - FWU00X00000088N00
+ All industries- Fatalities involving Farmers, ranchers, and other agricultural managers - FWU00X11901X8ON00
+ All industries- Fatalities involving Police and sheriff's patrol officers - FWU00X3330518ON00
+ All industries- Fatalities involving Food preparation and serving related occupations - FWUO3500000080N00
+ All industries- Fatalities involving Building and grounds cleaning and maintenance occupations - FWUO3700000080N00
+ All industries- Fatalities involving Sales and related occupations - FWUO4100000080N00
+ All industries- Fatalities involving Construction and extraction occupations - FWUO4700000080N00
+ All industries- Fatalities involving Construction laborers - FWU00X47206X8ON00
+ All industries- Fatalities involving Transportation and material moving occupations - FWUO5300000080N00
+ All industries- Fatalities involving Drivers/sales workers and truck drivers - FWU00X53303X8ON00
+ All industries- Fatalities involving Aircraft pilots and flight engineers - FWU00X53201X8ON00
+ All industries- Fatalities involving Refuse and recyclable material collectors - FWU00X53708X8ON00
+ All industries- Fatalities involving Military specific occupations - FWUO5500000080N00
+ All industries- Fatalities involving Roadway incidents involving motorized land vehicle - FWUE2600000080N00
+ All industries- Fatalities involving Homicides (Intentional injury by other person) - FWUE1A00000080N00
+ All industries- Fatalities involving Falls, slips, trips - FWUE4X00000080N00
+ All industries- Fatalities involving Struck by object or equipment - FWU00X62XXXX8EN00
+ All industries- Fatalities involving Exposure to environmental heat - FWU00X531XXX8EN00
+ All industries- Fatalities involving Pedestrian struck by vehicle in work zone - FWU00X241XXX8EN00
+ All industries- Fatalities involving Exposure to electricity - FWU00X51XXXX8EN00
+ All industries- Fatalities involving White, non-Hispanic workers - FWURWT00000080N00
+ All industries- Fatalities involving Black or African-American, non-Hispanic workers - FWURBT00000080N00
+ All industries- Fatalities involving Hispanic or Latino workers - FWURHT00000080N00
+ All industries- Fatalities involving Asian, non-Hispanic workers - FWURAT00000080N00
+ All industries- Fatalities involving Male workers - FWUGMX00000080N00
+ All industries- Fatalities involving Female workers - FWUGFX00000080N00
+ All industries- Fatalities involving workers Age under 16 - FWUAAX00000080N00
+ All industries- Fatalities involving workers Age 16 to 17 - FWUABX00000080N00
+ All industries- Fatalities involving workers Age 18 to 19 - FWUACX00000080N00
+ All industries- Fatalities involving workers Age 20 to 24 - FWUADX00000080N00
+ All industries- Fatalities involving workers Age 55 to 64 - FWUAHX00000080N00
+ All industries- Fatalities involving workers Age 65 and older - FWUAIX00000080N00
+
+Nonfatal cases involving days away from work: selected characteristics (2011 forward)
+(Select from list below)
+ Cases, Sunday - CSU00X1XXXXX6W100
+ Cases, Monday - CSU00X2XXXXX6W100
+ Cases, Tuesday - CSU00X3XXXXX6W100
+ Cases, Wednesday - CSU00X4XXXXX6W100
+ Cases, Thursday - CSU00X5XXXXX6W100
+ Cases, Friday - CSU00X6XXXXX6W100
+ Cases, Saturday - CSU00X7XXXXX6W100
+ Median days away from work, Sunday - CSU00X1XXXXX7W100
+ Median days away from work, Monday - CSU00X2XXXXX7W100
+ Median days away from work, Tuesday - CSU00X3XXXXX7W100
+ Median days away from work, Wednesday - CSU00X4XXXXX7W100
+ Median days away from work, Thursday - CSU00X5XXXXX7W100
+ Median days away from work, Friday - CSU00X6XXXXX7W100
+ Median days away from work, Saturday - CSU00X7XXXXX7W100
+ Rate, Fractures - CSU00X111XXX3N100
+ Rate, Sprains, strains, tears - CSU00X123XXX3N100
+ Rate, Amputations - CSU00X1311XX3N100
+ Rate, Bruises, contusions - CSU00X143XXX3N100
+ Rate, Heat burns, scalds - CSU00X152XXX3N100
+ Rate, Back pain, hurt back - CSUP321972XX3N100
+ Rate, Soreness, pain, hurt - CSU00X1972XX3N100
+ Rate, Tendonitis - CSU00X2735XX3N100
+ Cases, Fractures - CSU00X111XXX6N100
+ Cases, Sprains, strains, tears - CSU00X123XXX6N100
+ Cases, Amputations - CSU00X1311XX6N100
+ Cases, Bruises, contusions - CSU00X143XXX6N100
+ Cases, Heat burns, scalds - CSU00X152XXX6N100
+ Cases, Back pain, hurt back - CSUP321972XX6N100
+ Cases, Soreness, pain, hurt - CSU00X1972XX6N100
+ Cases, Tendonitis - CSU00X2735XX6N100
+ Median days away from work, Fractures - CSU00X111XXX7N100
+ Median days away from work, Sprains, strains, tears - CSU00X123XXX7N100
+ Median days away from work, Amputations - CSU00X1311XX7N100
+ Median days away from work, Bruises, contusions - CSU00X143XXX7N100
+ Median days away from work, Heat burns, scalds - CSU00X152XXX7N100
+ Median days away from work, Back pain, hurt back - CSUP321972XX7N100
+ Median days away from work, Soreness, pain, hurt - CSU00X1972XX7N100
+ Median days away from work, Tendonitis - CSU00X2735XX7N100
+ Rate, Contact with objects and equipment - CSU00X6XXXXX3E100
+ Rate, Fall to lower level - CSU00X43XXXX3E100
+ Rate, Fall on same level - CSU00X42XXXX3E100
+ Rate, Overexertion - CSU00X7XXXXX3E100
+ Rate, Overexertion involving outside sources - CSU00X71XXXX3E100
+ Rate, Repetitive motions involving micro tasks - CSU00X72XXXX3E100
+ Rate, Transportation accidents - CSU00X2XXXXX3E100
+ Rate, Intentional injury by other person - CSU00X111XXX3E100
+ Cases, Contact with objects and equipment - CSU00X6XXXXX6E100
+ Cases, Fall to lower level - CSU00X43XXXX6E100
+ Cases, Fall on same level - CSU00X42XXXX6E100
+ Cases, Overexertion - CSU00X7XXXXX6E100
+ Cases, Overexertion involving outside sources - CSU00X71XXXX6E100
+ Cases, Repetitive motions involving micro tasks - CSU00X72XXXX6E100
+ Cases, Transportation accidents - CSU00X2XXXXX6E100
+ Cases, Intentional injury by other person - CSU00X111XXX6E100
+ Median days away from work, Contact with objects and equipment - CSU00X6XXXXX7E100
+ Median days away from work, Fall to lower level - CSU00X43XXXX7E100
+ Median days away from work, Fall on same level - CSU00X42XXXX7E100
+ Median days away from work, Overexertion - CSU00X7XXXXX7E100
+ Median days away from work, Overexertion involving outside sources - CSU00X71XXXX7E100
+ Median days away from work, Repetitive motions involving micro tasks - CSU00X72XXXX7E100
+ Median days away from work, Transportation accidents - CSU00X2XXXXX7E100
+ Median days away from work, Intentional injury by other person - CSU00X111XXX7E100
+ Rate, Musculoskeletal disorders - CSU00XMSDXXX3M100
+ Cases, Musculoskeletal disorders - CSU00XMSDXXX6M100
+ Median days away from work, Musculoskeletal disorders - CSU00XMSDXXX7M100
+
+Occupational injuries and illnesses industry data (2014 forward)
+(Select from list below)
+ Private Industry-Injury/Illness Rate- Total Recordable Cases - ISU00000000031100
+ Private Industry-Injury/Illness Rate- Cases With Days Away from Work, Job Transfer, or Restriction - ISU00000000032100
+ Private Industry-Injury/Illness Rate- Cases With Days Away From Work - ISU00000000033100
+ Private Industry-Injury/Illness Rate- Cases With Job Transfer or Restriction - ISU00000000034100
+ Private Industry-Injury/Illness Rate- Other Recordable Cases - ISU00000000038100
+ Private Industry-Injury Rate- Total Recordable Cases - ISU00000000011100
+ Private Industry-Illness Rate- Total Recordable Cases - ISU00000000001100
+ Private Industry-Rate of Total Cases of Poisoning - ISU0000000000T100
+ Private Industry-Rate of Total Cases of Skin Disease - ISU0000000000U100
+ Private Industry-Rate of Total Cases of Respiratory Illnesses - ISU0000000000W100
+ Private Industry-Injury/Illness Count- Total Recordable Cases - ISU00000000061100
+ Private Industry-Injury/Illness Count- Cases With Days Away from Work, Job Transfer, or Restriction - ISU00000000062100
+ Private Industry-Injury/Illness Count- Cases With Days Away From Work - ISU00000000063100
+ Private Industry-Injury/Illness Count- Cases With Job Transfer or Restriction - ISU00000000064100
+ Private Industry-Injury/Illness Count- Other Recordable Cases - ISU00000000068100
+ Private Industry-Injury Count- Total Recordable Cases - ISU00000000051100
+ Private Industry-Illness Count- Total Recordable Cases - ISU00000000041100
+ Private Industry-Total Cases of Poisoning - ISU0000000004T100
+ Private Industry-Total Cases of Skin Disease - ISU0000000004U100
+ Private Industry-Total Cases of Respiratory Illnesses - ISU0000000004W100
+
+Occupational Requirements
+=========================
+Occupational Requirements
+-------------------------
+Occupational Requirements Survey
+(Select from list below)
+ Civilian workers; Average maximum weight lifted or carried, in pounds - ORUP1000000000000233
+ Civilian workers; % of all workers; exposed to outdoors - ORUE1000000000000815
+ Civilian workers; % of all workers; exposed to hazardous contaminants - ORUE1000000000000786
+ Civilian workers; % of all workers; minimum education level is none - ORUV1000000000000075
+ Civilian workers; % of all workers; minimum education level is a high school diploma - ORUV1000000000000076
+ Civilian workers; % of all workers; minimum education level is an associate's degree - ORUV1000000000000077
+ Civilian workers; % of all workers; minimum education level is a bachelor's degree - ORUV1000000000001029
+ Civilian workers; % of computer systems analysts; minimum education level is a bachelor's degree - ORUV1000012300001029
+ Civilian workers; % of software developers, applications; minimum education level is a bachelor's degree - ORUV1000012700001029
+ Civilian workers; % of all workers; minimum education level is a master's degree - ORUV1000000000000079
+
+Regional Resources
+==================
+Regional Top-Picks, Tables, and Text Files
+------------------------------------------
+Data for (CT-MA-ME-NH-RI-VT)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ (CPI-U) Northeast Region All items 1982-84=100 - CUUR0100SA0
+ (CPI-W) Northeast Region, All items 1982-84=100 - CWUR0100SA0
+ (CPI-U) Boston-Cambridge-Newton, MA-NH, All items 1982-84=100 - CUURS11ASA0
+ (CPI-W) Boston-Cambridge-Newton, MA-NH, All items 1982-84=100 - CWURS11ASA0
+ Average Price - Gasoline, Unleaded Reg., Per Gallon/ 3.785 liters - U.S. - APU000074714
+ Average Price - Gasoline, Unleaded Reg., Per Gallon/ 3.785 liters - Boston - APUS11A74714
+ PPI - All commodities, 1982=100 - WPU00000000
+ PPI - Industrial commodities, 1982=100 - WPU03THRU15
+ PPI - Finished goods, 1982=100 - WPUSOP3000
+ PPI - Metals and Metal Products, 1982=100 - WPU10
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate CT, seasonally adjusted - LASST090000000000003
+ Unemployment Rate CT, not seasonally adjusted - LAUST090000000000003
+ Unemployment Rate ME, seasonally adjusted - LASST230000000000003
+ Unemployment Rate ME, not seasonally adjusted - LAUST230000000000003
+ Unemployment Rate MA, seasonally adjusted - LASST250000000000003
+ Unemployment Rate MA, not seasonally adjusted - LAUST250000000000003
+ Unemployment Rate NH, seasonally adjusted - LASST330000000000003
+ Unemployment Rate NH, not seasonally adjusted - LAUST330000000000003
+ Unemployment Rate RI, seasonally adjusted - LASST440000000000003
+ Unemployment Rate RI, not seasonally adjusted - LAUST440000000000003
+ Unemployment Rate VT, seasonally adjusted - LASST500000000000003
+ Unemployment Rate VT, not seasonally adjusted - LAUST500000000000003
+ Total Nonfarm Payroll Employment CT, seasonally adjusted - SMS09000000000000001
+ Total Nonfarm Payroll Employment CT, not seasonally adjusted - SMU09000000000000001
+ Total Nonfarm Payroll Employment ME, seasonally adjusted - SMS23000000000000001
+ Total Nonfarm Payroll Employment ME, not seasonally adjusted - SMU23000000000000001
+ Total Nonfarm Payroll Employment MA, seasonally adjusted - SMS25000000000000001
+ Total Nonfarm Payroll Employment MA, not seasonally adjusted - SMU25000000000000001
+ Total Nonfarm Payroll Employment NH, seasonally adjusted - SMS33000000000000001
+ Total Nonfarm Payroll Employment NH, not seasonally adjusted - SMU33000000000000001
+ Total Nonfarm Payroll Employment RI, seasonally adjusted - SMS44000000000000001
+ Total Nonfarm Payroll Employment RI, not seasonally adjusted - SMU44000000000000001
+ Total Nonfarm Payroll Employment VT, seasonally adjusted - SMS50000000000000001
+ Total Nonfarm Payroll Employment VT, not seasonally adjusted - SMU50000000000000001
+ ECI - Total Compensation - Private Industry - U.S. - CIU2010000000000I
+ ECI - Total Compensation - Private Industry - Northeast Region - CIU2010000000210I
+ ECI - Wages & Salaries - Private Industry - U.S. - CIU2020000000000I
+ ECI - Wages & Salaries - Private Industry - Northeast Region - CIU2020000000210I
+ Total Nonfarm Employment - Seasonally Adjusted - CES0000000001
+ Total Nonfarm Employment - Not Seasonally Adjusted - CEU0000000001
+ Manufacturing Employment - Seasonally Adjusted - CES3000000001
+
+Data for (NY-NJ-PR-VI)
+(Select from list below)
+ (CPI-U) New York-Newark-Jersey City, All Items 1982-84=100 - CUURS12ASA0
+ (CPI-W) New York-Newark-Jersey City, All Items 1982-84=100 - CWURS12ASA0
+ (CPI-U) New York-Newark-Jersey City, All Items 1967=100 - CUURS12AAA0
+ (CPI-W) New York-Newark-Jersey City, All Items 1967=100 - CWURS12AAA0
+ (CPI-U) Northeast Region, All Items 1982-84=100 - CUUR0100SA0
+ Unemployment Rate, New York City, not seasonally adjusted - LAUCT365100000000003
+ Unemployment Level, New York City, not seasonally adjusted - LAUCT365100000000004
+ Employment Level, New York City, not seasonally adjusted - LAUCT365100000000005
+ Labor Force Level, New York City, not seasonally adjusted - LAUCT365100000000006
+ Unemployment Rate, New York State, seasonally adjusted - LASST360000000000003
+ Unemployment Level, New York State, seasonally adjusted - LASST360000000000004
+ Employment Level, New York State, seasonally adjusted - LASST360000000000005
+ Labor Force Level, New York State, seasonally adjusted - LASST360000000000006
+ Unemployment Rate, New Jersey, seasonally adjusted - LASST340000000000003
+ Unemployment Level, New Jersey, seasonally adjusted - LASST340000000000004
+ Employment Level, New Jersey, seasonally adjusted - LASST340000000000005
+ Labor Force Level, New Jersey, seasonally adjusted - LASST340000000000006
+ Total Nonfarm Payroll Employment, New York City, not seasonally adjusted - SMU36935610000000001
+ Total Nonfarm Payroll Employment, New York State, seasonally adjusted - SMS36000000000000001
+ Total Nonfarm Payroll Employment, New Jersey, seasonally adjusted - SMS34000000000000001
+ Total Nonfarm Payroll Employment, Puerto Rico, seasonally adjusted - SMS72000000000000001
+ Total Nonfarm Payroll Employment, Virgin Islands, seasonally adjusted - SMS78000000000000001
+
+Data for (DE-DC-MD-PA-VA-WV)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ (CPI-U) Northeast Regional Average, All items 1982-84=100 - CUUR0100SA0
+ (CPI-W) Northeast Regional Average, All items 1982-84=100 - CWUR0100SA0
+ (CPI-U) South Regional Average, All items 1982-84=100 - CUUR0300SA0
+ (CPI-W) South Regional Average, All items 1982-84=100 - CWUR0300SA0
+ (CPI-U) Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, All items 1982-84=100 - CUURS12BSA0
+ (CPI-W) Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, All Items 1982-84=100 - CWURS12BSA0
+ (CPI-U) Baltimore-Columbia-Towson, MD, All Items 1982-84=100 - CUURS35ESA0
+ (CPI-W) Baltimore-Columbia-Towson, MD, All Items 1982-84=100 - CWURS35ESA0
+ (CPI-U) Washington-Arlington-Alexandria, DC-VA-MD-WV, All Items 1982-84=100 - CUURS35ASA0
+ (CPI-W) Washington-Arlington-Alexandria, DC-VA-MD-WV, All Items 1982-84=100 - CWURS35ASA0
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate PA, seasonally adjusted - LASST420000000000003
+ Unemployment Rate PA, not seasonally adjusted - LAUST420000000000003
+ Unemployment Rate NJ, seasonally adjusted - LASST340000000000003
+ Unemployment Rate NJ, not seasonally adjusted - LAUST340000000000003
+ Unemployment Rate Bucks County, PA, not seasonally adjusted - LAUCN420170000000003
+ Unemployment Rate Chester County, PA, not seasonally adjusted - LAUCN420290000000003
+ Unemployment Rate Delaware County, PA, not seasonally adjusted - LAUCN420450000000003
+ Unemployment Rate Montgomery County, PA, not seasonally adjusted - LAUCN420910000000003
+ Unemployment Rate Philadelphia City, not seasonally adjusted - LAUCN421010000000003
+ Unemployment Rate Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, not seasonally adjusted - LAUMT423798000000003
+ PPI - All Commodities, 1982=100 - WPU00000000
+ PPI - Industrial Commodities, 1982=100 - WPU03THRU15
+ PPI - Finished Goods, 1982=100 - WPUSOP3000
+ PPI - Metals and Metal Products, 1982=100 - WPU10
+ PPI - Aircraft, 1982=100 - WPU1421
+ Food manufacturing Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU3231100008
+ Food manufacturing Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU3231100003
+ Apparel Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU3231500008
+ Apparel Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU3231500003
+ Chemicals Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU3232500008
+ Chemicals Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU3232500003
+
+Data for (AL-FL-GA-KY-MS-NC-SC-TN)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ (CPI-U) U.S. City Average, All Items 1967=100 - CUUR0000AA0
+ (CPI-W) U.S. City Average, All Items, 1967=100 - CWUR0000AA0
+ (CPI-U) South, All items 1982-84=100 - CUUR0300SA0
+ (CPI-U) Atlanta-Sandy Springs-Roswell, GA, All items 1982-84=100 - CUURS35CSA0
+ (CPI-U) Miami-Fort Lauderdale-West Palm Beach, FL, All items 1982-84=100 - CUURS35BSA0
+ (CPI-U) Tampa-St. Petersburg-Clearwater, FL, All items 1987=100 - CUURS35DSA0
+ PPI - All Commodities, 1982=100 - WPU00000000
+ PPI - Industrial Commodities, 1982=100 - WPU03THRU15
+ PPI - Industrial Commodities less Fuels, 1982=100 - WPU03T15M05
+ PPI - Finshed Goods, 1982=100 - WPUSOP3000
+ PPI - Metals & Metal Products, 1982=100 - WPU10
+ ECI - South region, Total compensation - CIU2010000000220I
+ ECI - South region, Wages and salaries - CIU2020000000220I
+ Nonfarm Employment AL, seasonally adjusted - SMS01000000000000001
+ Nonfarm Employment AL, not seasonally adjusted - SMU01000000000000001
+ Nonfarm Employment FL, seasonally adjusted - SMS12000000000000001
+ Nonfarm Employment FL, not seasonally adjusted - SMU12000000000000001
+ Nonfarm Employment GA, seasonally adjusted - SMS13000000000000001
+ Nonfarm Employment GA, not seasonally adjusted - SMU13000000000000001
+ Nonfarm Employment KY, seasonally adjusted - SMS21000000000000001
+ Nonfarm Employment KY, not seasonally adjusted - SMU21000000000000001
+ Nonfarm Employment MS, seasonally adjusted - SMS28000000000000001
+ Nonfarm Employment MS, not seasonally adjusted - SMU28000000000000001
+ Nonfarm Employment NC, seasonally adjusted - SMS37000000000000001
+ Nonfarm Employment NC, not seasonally adjusted - SMU37000000000000001
+ Nonfarm Employment SC, seasonally adjusted - SMS45000000000000001
+ Nonfarm Employment SC, not seasonally adjusted - SMU45000000000000001
+ Nonfarm Employment TN, seasonally adjusted - SMS47000000000000001
+ Nonfarm Employment TN, not seasonally adjusted - SMU47000000000000001
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate AL, seasonally adjusted - LASST010000000000003
+ Unemployment Rate AL, not seasonally adjusted - LAUST010000000000003
+ Unemployment Rate FL, seasonally adjusted - LASST120000000000003
+ Unemployment Rate FL, not seasonally adjusted - LAUST120000000000003
+ Unemployment Rate GA, seasonally adjusted - LASST130000000000003
+ Unemployment Rate GA, not seasonally adjusted - LAUST130000000000003
+ Unemployment Rate KY, seasonally adjusted - LASST210000000000003
+ Unemployment Rate KY, not seasonally adjusted - LAUST210000000000003
+ Unemployment Rate MS, seasonally adjusted - LASST280000000000003
+ Unemployment Rate MS, not seasonally adjusted - LAUST280000000000003
+ Unemployment Rate NC, seasonally adjusted - LASST370000000000003
+ Unemployment Rate NC, not seasonally adjusted - LAUST370000000000003
+ Unemployment Rate SC, seasonally adjusted - LASST450000000000003
+ Unemployment Rate SC, not seasonally adjusted - LAUST450000000000003
+ Unemployment Rate TN, seasonally adjusted - LASST470000000000003
+ Unemployment Rate TN, not seasonally adjusted - LAUST470000000000003
+ Annual Average Pay, Total Covered Employment, Alabama - EWU010005000Z
+ Annual Average Pay, Total Covered Employment, Florida - EWU120005000Z
+ Annual Average Pay, Total Covered Employment, Georgia - EWU130005000Z
+ Annual Average Pay, Total Covered Employment, Kentucky - EWU210005000Z
+ Annual Average Pay, Total Covered Employment, Mississippi - EWU280005000Z
+ Annual Average Pay, Total Covered Employment, North Carolina - EWU370005000Z
+ Annual Average Pay, Total Covered Employment, South Carolina - EWU450005000Z
+ Annual Average Pay, Total Covered Employment, Tennessee - EWU470005000Z
+ Total Nonfarm Employment - Seasonally adjusted - CES0000000001
+ Total Nonfarm Employment - Not Seasonally adjusted - CEU0000000001
+ Coal mining Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally adjusted - CEU1021210008
+ Coal mining Average Hourly Earnings of All Employees - Not Seasonally adjusted - CEU1021210003
+ Textile product mills Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally adjusted - CEU3231400008
+ Textile product mills Average Hourly Earnings of All Employees - Not Seasonally adjusted - CEU3231400003
+
+Data for (IL-IN-IA-MI-MN-NE-ND-OH-SD-WI)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ (CPI-U) Midwest Region, All items 1982-84=100 - CUUR0200SA0
+ (CPI-W) Midwest Region, All items 1982-84=100 - CWUR0200SA0
+ (CPI-U) Chicago-Naperville-Elgin, IL-IN-WI, All items 1982-84=100 - CUURS23ASA0
+ (CPI-W) Chicago-Naperville-Elgin, IL-IN-WI, All items 1982-84=100 - CWURS23ASA0
+ (CPI-U) Detroit-Warren-Dearborn, MI, All Items 1982-84=100 - CUURS23BSA0
+ (CPI-W) Detroit-Warren-Dearborn, MI, All Items 1982-84=100 - CWURS23BSA0
+ (CPI-U) Minneapolis-St. Paul-Bloomington, MN-WI, All Items 1982-84=100 - CUURS24ASA0
+ (CPI-W) Minneapolis-St. Paul-Bloomington, MN-WI, All Items 1982-84=100 - CWURS24ASA0
+ (CPI-U) U.S. City Average, All items 1967=100 - CUUR0000AA0
+ (CPI-W) U.S. City Average, All items 1967=100 - CWUR0000AA0
+ (CPI-U) Chicago-Naperville-Elgin, IL-IN-WI, All items 1967=100 - CUURS23AAA0
+ (CPI-W) Chicago-Naperville-Elgin, IL-IN-WI, All items 1967=100 - CWURS23AAA0
+ (CPI-U) Detroit-Warren-Dearborn, MI, All Items 1967=100 - CUURS23BAA0
+ (CPI-W) Detroit-Warren-Dearborn, MI, All Items 1967=100 - CWURS23BAA0
+ (CPI-U) Minneapolis-St. Paul-Bloomington, MN-WI, All Items 1967=100 - CUURS24AAA0
+ (CPI-W) Minneapolis-St. Paul-Bloomington, MN-WI, All Items 1967=100 - CWURS24AAA0
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate Illinois, seasonally adjusted - LASST170000000000003
+ Unemployment Rate Indiana, seasonally adjusted - LASST180000000000003
+ Unemployment Rate Iowa, seasonally adjusted - LASST190000000000003
+ Unemployment Rate Michigan, seasonally adjusted - LASST260000000000003
+ Unemployment Rate Minnesota, seasonally adjusted - LASST270000000000003
+ Unemployment Rate Nebraska, seasonally adjusted - LASST310000000000003
+ Unemployment Rate North Dakota, seasonally adjusted - LASST380000000000003
+ Unemployment Rate Ohio, seasonally adjusted - LASST390000000000003
+ Unemployment Rate South Dakota, seasonally adjusted - LASST460000000000003
+ Unemployment Rate Wisconsin, seasonally adjusted - LASST550000000000003
+ ECI-Total Compensation U.S. Average, Private Industry - CIU2010000000000I
+ ECI-Total Compensation Midwest, Private Industry - CIU2010000000230I
+ ECI-Wages & Salaries U.S. Average, Private Industry - CIU2020000000000I
+ ECI-Wages & Salaries Midwest, Private Industry - CIU2020000000230I
+
+Data for (AR-LA-NM-OK-TX)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ (CPI-U) Dallas-Fort Worth-Arlington, All items 1982-84=100 - CUURS37ASA0
+ (CPI-U) Houston-The Woodlands-Sugar Land, All items 1982-84=100 - CUURS37BSA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ (CPI-W) Dallas-Fort Worth-Arlington, All Items 1982-84=100 - CWURS37ASA0
+ (CPI-W) Houston-The Woodlands-Sugar Land, All Items 1982-84=100 - CWURS37BSA0
+ PPI-All Commodities, 1982=100 - WPU00000000
+ PPI-Industrial Commodities, 1982=100 - WPU03THRU15
+ PPI-Finished Goods, 1982=100 - WPUSOP3000
+ PPI-Oil field and gas field drilling machinery, 1982=100 - WPU119102
+ Nonfarm Employment TX, seasonally adjusted - SMS48000000000000001
+ Nonfarm Employment TX, not seasonally adjusted - SMU48000000000000001
+ Nonfarm Employment Dallas-Plano-Irving, not seasonally adjusted - SMU48191240000000001
+ Nonfarm Employment Fort Worth-Arlington, not seasonally adjusted - SMU48231040000000001
+ Nonfarm Employment Houston-The Woodlands-Sugar Land, not seasonally adjusted - SMU48264200000000001
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate TX, seasonally adjusted - LASST480000000000003
+ Unemployment Rate AR, seasonally adjusted - LASST050000000000003
+ Unemployment Rate LA, seasonally adjusted - LASST220000000000003
+ Unemployment Rate NM, seasonally adjusted - LASST350000000000003
+ Unemployment Rate OK, seasonally adjusted - LASST400000000000003
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate TX, not seasonally adjusted - LAUST480000000000003
+ Unemployment Rate Dallas-Plano-Irving, not seasonally adjusted - LAUDV481912400000003
+ Unemployment Rate Fort Worth-Arlington, not seasonally adjusted - LAUDV482310400000003
+ Unemployment Rate Houston-The Woodlands-Sugar Land, not seasonally adjusted - LAUMT482642000000003
+ ECI-Total Compensation U.S. Average, Private Industry - CIU2010000000000I
+ ECI-Total Compensation South, Private Industry - CIU2010000000220I
+ ECI-Wages & Salaries U.S. Average, Private Industry - CIU2020000000000I
+ Total Nonfarm Employment - Seasonally adjusted - CES0000000001
+ Total Nonfarm Employment - Not Seasonally adjusted - CEU0000000001
+ Oil and gas extraction Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally adjusted - CEU1021100008
+ Chemicals Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally adjusted - CEU3232500008
+
+Data for (CO-KS-MO-MT-UT-WY)
+(Select from list below)
+ CPI-U U.S. City Average, All items 1982-84=100 - CUUR0000SA0
+ CPI-W U.S. City Average, All items 1982-84=100 - CWUR0000SA0
+ CPI-U U.S. City Average, All items 1967=100 - CUUR0000AA0
+ CPI-W U.S. City Average, All items 1967=100 - CWUR0000AA0
+ CPI-U Midwest Region, All items 1982-84=100 - CUUR0200SA0
+ CPI-W Midwest Region, All items 1982-84=100 - CWUR0200SA0
+ CPI-U West Region, All items 1982-84=100 - CUUR0400SA0
+ CPI-W West Region, All items 1982-84=100 - CWUR0400SA0
+ CPI-U St. Louis, MO-IL, All Items 1982-84=100 - CUURS24BSA0
+ CPI-W St. Louis, MO-IL, All Items 1982-84=100 - CWURS24BSA0
+ CPI-U Denver-Aurora-Lakewood, CO, All Items 1982-84=100 - CUURS48BSA0
+ CPI-W Denver-Aurora-Lakewood, CO, All Items 1982-84=100 - CWURS48BSA0
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate Colorado, seasonally adjusted - LASST080000000000003
+ Unemployment Rate Kansas, seasonally adjusted - LASST200000000000003
+ Unemployment Rate Missouri, seasonally adjusted - LASST290000000000003
+ Unemployment Rate Montana, seasonally adjusted - LASST300000000000003
+ Unemployment Rate Utah, seasonally adjusted - LASST490000000000003
+ Unemployment Rate Wyoming, seasonally adjusted - LASST560000000000003
+ PPI - All Commodities, 1982=100 - WPU00000000
+ PPI - Industrial Commodities, 1982=100 - WPU03THRU15
+ PPI - Finished Goods, 1982=100 - WPUSOP3000
+ Employment Cost Index, Total Compensation, Midwest Region - CIU2010000000230I
+ Employment Cost Index, Wages and Salaries, Midwest Region - CIU2020000000230I
+ Employment Cost Index, Total Compensation, West Region - CIU2010000000240I
+ Employment Cost Index, Wages and Salaries, West Region - CIU2020000000240I
+ Oil and gas extraction Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU1021100008
+ Oil and gas extraction Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU1021100003
+ Oil and gas extraction Average Weekly Earnings of Production and Nonsupervisory Employees- Not Seasonally Adjusted - CEU1021100030
+ Support activities for mining Average Hourly Earnings of Production and Nonsup. Employees - Not Seasonally Adjusted - CEU1021300008
+ Support activities for mining Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU1021300003
+ Support activities for mining Average Weekly Earnings of Production and Nonsup. Employees - Not Seasonally Adjusted - CEU1021300030
+
+Data for (AK-AZ-CA-GU-HI-ID-NV-OR-WA)
+(Select from list below)
+ (CPI-U) U.S. City Average, All items 1982-84=100 (Monthly) - CUUR0000SA0
+ (CPI-W) U.S. City Average, All items 1982-84=100 (Monthly) - CWUR0000SA0
+ (CPI-U) West Region, All items 1982-84=100 (Monthly) - CUUR0400SA0
+ (CPI-W) West Region, All items 1982-84=100 (Monthly) - CWUR0400SA0
+ (CPI-U) Los Angeles-Long Beach-Anaheim, CA, All items 1982-84=100 (Monthly) - CUURS49ASA0
+ (CPI-W) Los Angeles-Long Beach-Anaheim, CA, All items 1982-84=100 (Monthly) - CWURS49ASA0
+ (CPI-U) San Francisco-Oakland-Hayward, CA, All items 1982-84=100 (Bi-monthy) - CUURS49BSA0
+ (CPI-W) San Francisco-Oakland-Hayward, CA, All items 1982-84=100 (Bi-monthy) - CWURS49BSA0
+ (CPI-U) Riverside-San Bernardino-Ontario, CA, All items 1982-84=100 (Bi-monthy) - CUURS49CSA0
+ (CPI-W) Riverside-San Bernardino-Ontario, CA, All items 1982-84=100 (Bi-monthy) - CWURS49CSA0
+ (CPI-U) Seattle-Tacoma-Bellevue, WA, All items 1982-84=100 (Bi-Monthly) - CUURS49DSA0
+ (CPI-W) Seattle-Tacoma-Bellevue, WA, All items 1982-84=100 (Bi-Monthly) - CWURS49DSA0
+ (CPI-U) Urban Alaska, All items 1982-84=100 (Semiannual) - CUURS49GSA0
+ (CPI-W) Urban Alaska, All items 1982-84=100 (Semiannual) - CWURS49GSA0
+ (CPI-U) Urban Hawaii, All items 1982-84=100 (Semiannual) - CUURS49FSA0
+ (CPI-W) Urban Hawaii, All items 1982-84=100 (Semiannual) - CWURS49FSA0
+ (CPI-U) San Diego-Carlsbad, CA, All items 1982-84=100 (Semiannual) - CUURS49ESA0
+ (CPI-W) San Diego-Carlsbad, CA, All items 1982-84=100 (Semiannual) - CWURS49ESA0
+ (CPI-U) U.S. City Average, All items 1967 (Monthly) - CUUR0000AA0
+ (CPI-W) U.S. City Average, All items 1967 (Monthly) - CWUR0000AA0
+ (CPI-U) West Region, All items 1967=100 (Monthly) - CUUR0400AA0
+ (CPI-W) West Region, All items 1967=100 (Monthly) - CWUR0400AA0
+ (CPI-U) Los Angeles-Long Beach-Anaheim, CA, All items 1967=100 (Monthly) - CUURS49AAA0
+ (CPI-W) Los Angeles-Long Beach-Anaheim, CA, All items 1967=100 (Monthly) - CWURS49AAA0
+ (CPI-U) San Francisco-Oakland-Hayward, CA, All items 1967=100 (Bi-Monthly) - CUURS49BAA0
+ (CPI-W) San Francisco-Oakland-Hayward, CA, All items 1967=100 (Bi-Monthly) - CWURS49BAA0
+ (CPI-U) Riverside-San Bernardino-Ontario, CA, All items 1967=100 (Bi-Monthly) - CUURS49CAA0
+ (CPI-W) Riverside-San Bernardino-Ontario, CA, All items 1967=100 (Bi-Monthly) - CWURS49CAA0
+ (CPI-U) Seattle-Tacoma-Bellevue, WA, All items 1967=100 (Bi-Monthly) - CUURS49DAA0
+ (CPI-W) Seattle-Tacoma-Bellevue, WA, All items 1967=100 (Bi-Monthly) - CWURS49DAA0
+ (CPI-U) Urban Alaska, All items 1967=100 (Semiannual) - CUURS49GAA0
+ (CPI-W) Urban Alaska, All items 1967=100 (Semiannual) - CWURS49GAA0
+ (CPI-U) Urban Hawaii, All items 1967=100 (Semiannual) - CUURS49FAA0
+ (CPI-W) Urban Hawaii, All items 1967=100 (Semiannual) - CWURS49FAA0
+ (CPI-U) San Diego-Carlsbad, CA, All items 1967=100 (Semiannual) - CUURS49EAA0
+ (CPI-W) San Diego-Carlsbad, CA, All items 1967=100 (Semiannual) - CWURS49EAA0
+ Unemployment Rate U.S., seasonally adjusted - LNS14000000
+ Unemployment Rate U.S., not seasonally adjusted - LNU04000000
+ Unemployment Rate Alaska, seasonally adjusted - LASST020000000000003
+ Unemployment Rate Alaska, not seasonally adjusted - LAUST020000000000003
+ Unemployment Rate Arizona, seasonally adjusted - LASST040000000000003
+ Unemployment Rate Arizona, not seasonally adjusted - LAUST040000000000003
+ Unemployment Rate California, seasonally adjusted - LASST060000000000003
+ Unemployment Rate California, not seasonally adjusted - LAUST060000000000003
+ Unemployment Rate Hawaii, seasonally adjusted - LASST150000000000003
+ Unemployment Rate Hawaii, not seasonally adjusted - LAUST150000000000003
+ Unemployment Rate Idaho, seasonally adjusted - LASST160000000000003
+ Unemployment Rate Idaho, not seasonally adjusted - LAUST160000000000003
+ Unemployment Rate Nevada, seasonally adjusted - LASST320000000000003
+ Unemployment Rate Nevada, not seasonally adjusted - LAUST320000000000003
+ Unemployment Rate Oregon, seasonally adjusted - LASST410000000000003
+ Unemployment Rate Oregon, not seasonally adjusted - LAUST410000000000003
+ Unemployment Rate Washington, seasonally adjusted - LASST530000000000003
+ Unemployment Rate Washington, not seasonally adjusted - LAUST530000000000003
+ PPI - All Commodities, 1982=100 - WPU00000000
+ PPI - Industrial Commodities, 1982=100 - WPU03THRU15
+ PPI - Finished Goods, 1982=100 - WPUSOP3000
+ PPI - Metals and Metal Products, 1982=100 - WPU10
+ PPI - Fuels, Related Products, and Power, 1982=100 - WPU05
+ PPI - Construction materials, 1982=100 - WPUSI012011
+ PPI - Finished goods less foods & energy, 1982=100 - WPUSOP3500
+ PPI - Intermediate materials, supplies, & components, 1982=100 - WPUSOP2000
+ PPI - Crude materials for further processing, 1982=100 - WPUSOP1000
+ PPI - Construction sand and gravel mining - PCU212321212321
+ ECI - U.S., Private industry, Total compensation (12 month percent change) - CIU2010000000000A
+ ECI - U.S., Private industry, Wages and salaries (12 month percent change) - CIU2020000000000A
+ ECI - U.S., Private industry, Benefits (12 month percent change) - CIU2030000000000A
+ ECI - West, Private industry, Total compensation (12 month percent change) - CIU2010000000240A
+ ECI - West, Private industry, Wages and salaries (12 month percent change) - CIU2020000000240A
+ Total Private Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU0500000008
+ Total Private Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU0500000003
+ Mining Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU1021000008
+ Mining Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU1021000003
+ Construction Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU2000000008
+ Construction Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU2000000003
+ Manufacturing Average Hourly Earnings of Production and Nonsupervisory Employees - Not Seasonally Adjusted - CEU3000000008
+ Manufacturing Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU3000000003
+ Computer and electronic products Average Hourly Earnings of Production and Nonsup. Employees - Not Seasonally Adjusted - CEU3133400008
+ Computer and electronic products Average Hourly Earnings of All Employees - Not Seasonally Adjusted - CEU3133400003
+
+International
+=============
+Prices - International
+----------------------
+ Imports - All Commodities - EIUIR
+ Imports - Fuels and Lubricants - EIUIR10
+ All Imports Excluding Fuels - EIUIREXFUELS
+ Imports - Foods, Feeds, and Beverages - EIUIR0
+ Imports - Industrial Supplies and Materials - EIUIR1
+ Imports - Capital Goods - EIUIR2
+ Imports - Automotive Vehicles - EIUIR3
+ Imports - Consumer Goods - EIUIR4
+ Exports - All Commodities - EIUIQ
+ Exports - Agricultural Commodities - EIUIQAG
+ Exports - Nonagricultural Commodities - EIUIQEXAG
+ Exports - Foods, Feeds, and Beverages - EIUIQ0
+ Exports - Industrial Supplies and Materials - EIUIQ1
+ Exports - Capital Goods - EIUIQ2
+ Exports - Automotive Vehicles - EIUIQ3
+ Exports - Consumer Goods - EIUIQ4
+ Terms of Trade - Canada - All Industries - EIUCTCANTOT
+ Terms of Trade - European Union - All Industries - EIUCTEECTOT
+ Terms of Trade - Mexico - All Industries - EIUCTMEXTOT
+ Terms of Trade - China - All Industries - EIUCTCHNTOT
+ Terms of Trade - Japan - All Industries - EIUCTJPNTOT
+ Locality of Origin - Canada - All Industries - EIUCOCANTOT
+ Locality of Origin - European Union - All Industries - EIUCOEECTOT
+ Locality of Origin - Mexico - All Industries - EIUCOMEXTOT
+ Locality of Origin - China - All Industries - EIUCOCHNTOT
+ Locality of Origin - Japan - All Industries - EIUCOJPNTOT
+ Locality of Destination - Canada - All Industries - EIUCDCANTOT
+ Locality of Destination - European Union - All Industries - EIUCDEECTOT
+ Locality of Destination - Mexico - All Industries - EIUCDMEXTOT
+ Locality of Destination - China - All Industries - EIUCDCHNTOT
+ Locality of Destination - Japan - All Industries - EIUCDJPNTOT
+ Import Air Passenger Fares - EIUIV142
+ Export Air Passenger Fares - EIUIH142
+ Import Air Freight - EIUIV131
+ Export Air Freight - EIUIH231
